@@ -1,4 +1,6 @@
-#Hux Blog
+#Shin's First Blog
+
+I forked the site from http://huxpro.github.io, and made changes to fit me. 
 
 ###[View Live Hux Blog &rarr;](http://huxpro.github.io)
 
@@ -25,7 +27,7 @@ $ git clone git@github.com:Huxpro/huxblog-boilerplate.git
 
 - Annoyed to delete my blog post after clone or pull? **Boilerplate** comes to help you get started quickly and easily merge update. 
 - `-apple-system` is added in font rule, which display beautiful new font **San Francisco** in iOS 9 by default. 
-- Fixed [issue#15](https://github.com/Huxpro/huxpro.github.io/issues/15) about code wrap.
+- Fixed [issue#15](https://github.com/shin-liu/huxpro.github.io/issues/15) about code wrap.
 
 ##### New Feature (V1.5.1)
 
@@ -274,7 +276,7 @@ There are a number of tasks it performs like minification of the JavaScript, com
 
 #### Header Image
 
-Change header images of any pages or any posts is pretty easy as mentioned above. But, thanks to [issue #6 (in Chinese)](https://github.com/Huxpro/huxpro.github.io/issues/6) asked, **how to make it looks great?**
+Change header images of any pages or any posts is pretty easy as mentioned above. But, thanks to [issue #6 (in Chinese)](https://github.com/shin-liu/huxpro.github.io/issues/6) asked, **how to make it looks great?**
 
 **Well...it is actually a design issue**, not a coding stuff. It is better that you have basic design knowledge, but not is ok, let me told you how to make it well-designed:
 
